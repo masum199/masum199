@@ -19,6 +19,3 @@ Skills: MONGO DB / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masum199)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masum199)  
-
-![Profile views](https://gpvc.arturio.dev/masum199)  
